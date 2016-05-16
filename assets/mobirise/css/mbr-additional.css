@@ -1,6 +1,51 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
 
+#menu-8 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-8.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-8 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header4-9 H1 {
+  color: #4c6972;
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+}
+#header4-9 P {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box4-11 .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-11 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-11 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-11 .mbr-article P {
+  color: #7c706b;
+}
+#content5-12 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-12 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-12 .mbr-article {
+  color: #fff;
+}
+#form1-14 .mbr-header__text {
+  text-align: center;
+}
+
+
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
